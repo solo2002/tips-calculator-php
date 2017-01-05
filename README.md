@@ -23,3 +23,11 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * Add a header and footer by using html and some css
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://imgur.com/a/6CzIc' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
